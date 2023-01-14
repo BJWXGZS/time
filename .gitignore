@@ -1,0 +1,3 @@
+for __count in range(99999):
+    print(time.ctime())
+    time.sleep(1)
